@@ -1,6 +1,6 @@
 ## Apollo server and Apollo client 🚀
 
-Querys, Mutations, Suscripcions with Apollo and React
+Querys, Mutations, Subscriptions with Apollo and React
 
 Probar proyeto
 
