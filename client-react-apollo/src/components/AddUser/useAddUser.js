@@ -41,7 +41,7 @@ export const useAddUser = () => {
           setUsername('')
           setPassword('')
           setAge('')
-        }, 2000)
+        }, 1000)
       } catch (err) {
         setDisabled(false)
         setMensaje(err.message.replace('GraphQL error: ', ''))
