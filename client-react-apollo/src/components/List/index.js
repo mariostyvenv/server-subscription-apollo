@@ -1,5 +1,8 @@
 import React from 'react'
 
 export const List = ({ info }) => {
-  return <code>{JSON.stringify(info.register.user)}</code>
+  const {
+    register: { user }
+  } = info
+  return <pre>{JSON.stringify(user, null, 2)}</pre>
 }

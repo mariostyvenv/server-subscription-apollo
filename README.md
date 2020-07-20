@@ -19,4 +19,6 @@ Probar proyeto
   npm i && npm run start
 ```
 
-![apollo-client](https://user-images.githubusercontent.com/38017835/87908670-747de180-ca2c-11ea-9b53-c9930811839b.PNG)
+![view-initial](https://user-images.githubusercontent.com/38017835/87980968-12f45c00-ca9a-11ea-8dbe-74cc07015c37.PNG)
+
+![main-nueva](https://user-images.githubusercontent.com/38017835/87980980-15ef4c80-ca9a-11ea-8343-32744646c369.PNG)
